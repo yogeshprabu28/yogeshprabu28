@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogeshprabu28" alt="yogeshprabu28" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Flask, Selenium automation**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 📝 I regularly write articles on [https://my-first-web-blog.onrender.com/](https://my-first-web-blog.onrender.com/)
 
