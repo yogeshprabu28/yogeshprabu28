@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yogesh Prabu</h1>
 <h3 align="center">A passionate Software developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogeshprabu28" alt="yogeshprabu28" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 📝 I regularly write articles on [https://my-first-web-blog.onrender.com/](https://my-first-web-blog.onrender.com/)
+- 📝 My first website using Flask [https://my-first-web-blog.onrender.com/](https://my-first-web-blog.onrender.com/)
 
 - 📫 How to reach me **yogeshprabu28@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
