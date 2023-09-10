@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 📝 My first website using Flask [https://my-first-web-blog.onrender.com/](https://my-first-web-blog.onrender.com/)
+- 📝 Check out my new project https://todolist-application-c13t.onrender.com
 
 - 📫 How to reach me **yogeshprabu28@gmail.com**
 
